@@ -1,19 +1,18 @@
 # Willard Kofford & Christena Neilson
 
 **Relationship to Erik Byron Taylor:** Great-great-grandparents (direct line)
-**Line:** Erik → Byron William Taylor → Veda Alene Kofford → **Willard Hogan Kofford** → **Willard Kofford & Christena Neilson**
+**Line:** Erik → Byron William Taylor → Veda Alene Kofford → **Willard Hogan Kofford ("Bill")** → **Willard Kofford & Christena Neilson**
 
-So: Willard Kofford and Christena Neilson are Erik's great-great-grandparents. Their son Willard Hogan Kofford married Veda Meiling, and their daughter Veda Alene Kofford married Paul Hector Taylor — Erik's grandparents on the Taylor side.
+Their son Willard Hogan Kofford married Veda Meiling; their daughter Veda Alene Kofford married Paul Hector Taylor — Erik's grandparents.
 
-**Combined source records:** 68
-**Primary Sources Used:**
-- *Life History of Willard Kofford, as told to Beula K. Keetch* (formatted by Pam Kofford Reschke, May 2016) — 10-page narrative
-- *Life of Christena Neilson Kofford* — 9-page narrative
-- Obituary: *The Daily Herald* (Provo, UT), January 19, 1939 ("Willard Kofford Dies at Orem")
-- Obituary: *The Daily Herald* (Provo, UT), March 20, 1916 (Christena Kofford)
+**Primary Sources:**
+- *Life History of Willard Kofford, as told to Beula K. Keetch* (formatted by Pam Kofford Reschke, May 2016) — 10-page narrative, full text retrieved from FamilySearch Memories
+- *Life of Christena Neilson Kofford* — 9-page narrative, full text retrieved from FamilySearch Memories
+- Obituary: *The Daily Herald* (Provo, Utah), January 19, 1939 — "Willard Kofford Dies at Orem"
+- Obituary: *The Daily Herald* (Provo, Utah), March 20, 1916 — "Mrs. Kofford Died at Sharon Sunday"
 - Divorce decree: *Salt Lake Tribune*, November 11, 1908
-- Pedigree chart transcribed by Travis Christensen from Beula Kofford Keetch records
 - Life history of Clarence Louis Kofford (son)
+- Church emigration records; Samuel A. Woolley company roster, September 22, 1861
 
 **FamilySearch IDs:**
 - Willard Kofford: KWNZ-5M2
@@ -21,217 +20,277 @@ So: Willard Kofford and Christena Neilson are Erik's great-great-grandparents. T
 
 ---
 
+## Christena Neilson
+
+**Born:** March 22, 1856 (celebrated by her throughout life as March 6), Kvistofta, Malmöhus, Sweden
+**Died:** March 18, 1916, Orem (Sharon Ward), Utah (age 60)
+**Also known as:** "Stenie" (family nickname)
+
+*Note: Christena was never a member of the LDS Church. The life history states clearly: "Christena never did join the church. Though she was a sweet, kind, clean and honest person. No doubt she would have joined if someone would have encouraged her to do so." She was raised by an uncle who had left the church, and "as a result, Christena was raised a non-Mormon."*
+
+### Birth and Family in Sweden
+
+A baby girl was born to Håkan (Hogan) Neilson and his wife Johanna Larson Neilson in the village of Kvistofta, Malmöhus (Skåne), Sweden. She was christened April 27, 1856 in the Lutheran Church and named Christena, carried to the altar by Mrs. Assarina Holmgren. She had an older sister Matilda (age 6 at emigration) and a younger sister Hanna (age 1).
+
+Her parents were devoted Lutherans when Mormon missionaries contacted them. They were soon converted. Sister Matilda wrote in her own history that *"they were baptized in the night to avoid persecution from the mobs."* They immediately began preparing to emigrate to Utah.
+
+Before they left, an uncle gave each of the three little girls $500.00, deposited in the Bank of Stockholm. "Use it when you need it." The money was spoken of in the family for decades — but it was never withdrawn.
+
+### The Voyage (1860)
+
+**May 2, 1860:** The family boarded the steamship *Pauline* at Copenhagen. They arrived at Grimsby, England on the 5th, traveled by rail to Liverpool on the 6th, and on **May 7** boarded the *William Tapscott* — a ship carrying 730 souls, 312 of them Scandinavians — bound for New York.
+
+The voyage was long, rough, and wet. Smallpox appeared among the Scandinavian Saints on June 3. Little Hanna — just over a year old — became very ill. She died June 11. The family was overcome with grief as their baby was strapped to a board and slid over the side of the ship into the ocean.
+
+The ship reached New York quarantine June 15. After five or six days, the passengers were landed at Castle Garden on June 20. The family traveled via Albany, Rochester, Niagara Falls, Detroit, Chicago, Quincy, and St. Joseph, Missouri, then by steamboat up the Missouri River to Florence, Nebraska, arriving June 30, 1860.
+
+### Florence, Nebraska — First American Winter
+
+The family found shelter in an empty house and settled for the winter. On October 14, 1860, a baby boy was born and named Hyrum. The little sisters were overjoyed — they had missed their baby Hanna so much.
+
+### Crossing the Plains (1861)
+
+Håkan bought a wagon, three oxen, and a cow. They joined **Captain Samuel A. Woolley's ox train** of approximately 70 wagons — 338 Saints, 277 oxen, 81 cows — departing Florence July 13, 1861.
+
+One of Håkan's oxen became sick and died en route. He put the cow in harness to help pull the wagon. It took patience and training for Håkan to teach the cow to pull. She managed it, but died shortly after the family arrived.
+
+The company arrived in Salt Lake City **September 22, 1861** — 338 Scandinavian saints, mostly on foot across the plains in summer heat.
+
+Christena's family went on to Mt. Pleasant, Sanpete County, where relatives lived. Håkan bought a city lot and built a dugout. The family lived there that winter.
+
+### Orphaned at Six
+
+The Mt. Pleasant Church records show that on November 23, 1861, Håkan and Johanna were re-baptized in the cold weather. The following spring, Håkan went to the canyon for logs to build a house. He came home ill. Johanna was also ill — likely diphtheria. **She died July 30, 1862**, leaving Christena (6), Matilda (8), and baby Hyrum (9 months old) without a mother.
+
+The mother's body was put in an untrimmed white pine casket, loaded into the wagon, and hauled to the Mt. Pleasant Cemetery. Christena and Matilda rode in the wagon, one on each side of the casket.
+
+Håkan's illness worsened. He had held himself together long enough to bury his wife. **He died August 3, 1862** — four days later — leaving three children orphans.
+
+His brother Jens and Jens's two wives took the children. Christena lived with one wife (Sena); Matilda and Hyrum with the other.
+
+### Childhood as an Orphan
+
+Christena herded cattle and sheep, helped at harvest, brought in grain and hay. There was very little to eat. She went barefoot all summer, got shoes only in cold winter. She went hungry many times. She was "a lonely sad little girl much of the time."
+
+Uncle Jens's daughter Hilda, about the same age, became Christena's closest companion. They loved each other as sisters all their lives.
+
+A critical turn: **Uncle Jens and his wife left the church**, along with many others in Mt. Pleasant who had grown bitter about how the Bishop ran things. As a result, Christena was raised a non-Mormon. Her sister Matilda, who lived with people more active in the church, grew up to become an active member and temple worker. But nobody guided Christena in that direction, and she never joined.
+
+The life history notes: *"No doubt she would have joined if someone would have encouraged her to do so."*
+
+### Marriage and Family Life
+
+She grew into a lovely young lady. She had been seeing a young man named John Carlson who lived just over the creek — when she met Willard Kofford. He thought Mormonism was foolishness. Christena had been taught similar ideas. They got along fine.
+
+They married November 14, 1881 in Mt. Pleasant.
+
+Their first child, **Hanna Christena**, was born December 12, 1882. Christena became very ill afterward with an abscessed breast that had to be lanced — causing that breast to never produce milk again. Their son **Willard Hogan** was born September 26, 1884, and grew strong and healthy on one breast. Son **Clarence Louis** was born July 31, 1887 — "a darling, round-faced, blue-eyed baby."
+
+Christena worked hard on the dairy farm — milking cows, making butter, hauling it to market. She was an immaculate housekeeper, kept herself well groomed and clean, and taught her sons the same.
+
+### The Death of Hanna
+
+Little Hanna developed rheumatic fever. She grew thin and pale as a beautiful china doll — so thin she couldn't sit comfortably. Uncle Erastus (Willard's brother, who ran a store) sent for a potty chair with a soft cushion so she could sit more easily. Christena's heart nearly broke watching her only daughter fade.
+
+On a cold winter evening, Willard was out milking the cow. Hanna was in her chair. She said to her mother: *"Ma, I'm going to die."*
+
+Mother: *"What makes you think so?"*
+
+Hanna: *"Because I can't breathe."*
+
+Christena told seven-year-old Bill and four-year-old Clarence to watch their sister while she ran for Pa. Willard came running. When he saw how bad it was he ran for Uncle Erastus and his wife Clara. They arrived just before Hanna passed away — five days before Christmas, December 20, 1891.
+
+Clara and Erastus stayed to wash and prepare little Hanna and sit up all night with the body, as was the custom. Willard took Christena and the boys to Grandpa Jens's house a block away, knocked on the window at night, and Grandma let them in. After the news and tears, Grandma put Christena and the boys in her warm bed and crawled in with Grandpa. Willard went back to be with his daughter.
+
+The snow was so deep when they buried Hanna that they couldn't tell which part of the lot they were digging on. When the snow melted, the grave was in the center of the lot — her remains lying there alone.
+
+### The Move to Provo Bench (1896)
+
+After leaving Mt. Pleasant — first to Aurora for a few months, then heading north — Willard was struck by the Provo Bench. He bought five acres at 255 North State Street for $125.00. Here Christena lived the rest of her life.
+
+Camping while building was miserable for her: cooking over a camp fire, heating water for washing and bathing, clearing sagebrush, planting crops, digging ditches. She had many days of illness — hard work and not enough of the right food had worn her down, and she practically lived on toast and tea because her stomach pained her so much.
+
+### Mrs. McBride and the Divorce
+
+Willard was away much of the time doing civic work and running the general store with his business partner Mrs. McBride — "an attractive widow." Mrs. McBride enjoyed visiting the Koffords. Christena was a good cook and Mrs. McBride liked to drop in for meals, stay late, and then ask Willard to take her home. Christena loved her husband and this made her feel terrible.
+
+One day in summer 1908, Mrs. McBride invited Christena to visit a daughter in Lake View. When Christena got home, **Willard had hitched the team to the wagon, loaded all his personal possessions, and was gone.** He had left her.
+
+Later that day Mrs. McBride — or "Mrs. Mac" — called Christena on the phone: *"Is there anything I can do for you, dearie?"*
+
+Christena hung up on her.
+
+In a little while, Mrs. Mac knocked on the front door. **Willard (Bill), age 24, answered.** When he saw who it was, **he grabbed the broom and went at her.** She took the hint and left — stepping out of their lives forever.
+
+She later married Christena's own brother **Hyrum** — a second devastating blow, felt by Christena and by sister Matilda alike.
+
+The divorce decree was granted November 1908 (reported in the *Salt Lake Tribune*). Willard married Carrie Lindsey in Salt Lake City on December 3, 1908. Carrie died of cancer in 1913.
+
+### The Long Years After
+
+The life history is explicit about Christena's condition: *"The next few years Christena led a sad, broken-hearted life. She cried until nearly all her eye lashes came out. If only she could have had the Gospel teachings to help her in times of sadness. But she had nothing to fall back on."*
+
+She survived by selling butter and eggs. She had a horse and buggy for transportation, took her produce to Provo and sold it. She was so kind to her grandchildren — buying them small gifts when she had a little money. The girls knew never to let her see them barefoot in summer, because she would sit and cry. She had gone barefoot as a child all summer long, and she had resolved her children and grandchildren never would. She would have gone cold and hungry herself to have money for shoes for them.
+
+Uncle Jens, who had raised her, came to stay with her for a while after his wives died. He was nearly blind, lonely, and had no church. He died at age 90 still outside the faith. His daughter Hilda later had a dream in which her father appeared in his old clothes, walking with his cane, looking downcast. He said: *"Hilda, can you get my garments for me?... I can't do anything or get anywhere without my garments."* In every drawer she opened she found garments — but when she reached for them, they fell apart. She had to tell him she could do nothing. He dropped his head and walked away. The life history notes with quiet sadness: "With Hilda or Christena not belonging to the church it is possible that Grandpa Neilson is still waiting to get his garments."
+
+### The Reconciliation
+
+After Carrie's death in 1913, Willard visited his sons and grandchildren. He found Clarence needed work and got him a job as night watchman at Keith O'Brien's department store in Salt Lake; Willard worked there as receiving clerk. Clarence carried messages between his parents. Christena sent Willard socks she had knitted — passing them through Clarence.
+
+At Christmas 1915 she invited Willard to spend Christmas with the family. He gladly accepted. *"That was a wonderful Christmas with all the family together again."* After Christmas, he continued to stay. A bed was put in the parlor for him. Bill's family lived in the adjoining rooms. Christena worried about what people would say. She didn't feel right about it, but she couldn't bring herself to tell him to leave. *"She hadn't yet forgiven him enough to remarry him."*
+
+On **March 6, 1916** — her 60th birthday (though her actual birth date was March 22, a fact she never knew) — the family held a big party with a full-course dinner and decorated birthday cakes from each daughter-in-law. Decorated cakes were something special and unusual in those days. Christena had a wonderful, happy birthday.
+
+A day or so later, she fell in the back yard and injured her hip. The pain forced her to stay in bed. Pneumonia developed. The doctor said he could do nothing more for her — *"because she had no desire to live."*
+
+On **March 18, 1916**, at 9:00 o'clock on Saturday night, Christena passed away. Willard and her two sons were at her bedside.
+
+Mrs. Loveridge came and prepared her body for burial. The dining room table was extended with its leaves. Christena was laid there until the funeral. The room was kept as cold as possible. Friends and relatives took turns sitting up each night in the adjoining room, as was the custom.
+
+Her funeral was held March 21 in the Sharon Ward Chapel. The slow horse-and-buggy procession to the Provo Cemetery. She was laid to rest beside the daughter she had mourned all those years — or not far from her.
+
+The life history closes: *"It was sad to realize that her parents went through so many hardships as pioneers to bring their children to Zion so they could have the full blessings the church could give to them. Then, for Christena, or Stenie as she was always called, to live all her life among Mormons and never be privileged to enjoy or to learn how to have these blessings and security that she needed so much throughout her life. How sad."*
+
+---
+
 ## Willard Kofford
 
 **Born:** May 24, 1858, Vester Marie, Bornholm, Denmark
 **Died:** January 18, 1939, Orem, Utah (age 80)
-**Also known as:** Janus Villard Busk (birth name); Janus Villard Larsen (on some Danish records); Willard Kofford (name taken on arrival in America)
+**Also known as:** Janus Villard Busk (birth name); Janus Villard Larsen (some Danish records); Willard Kofford (name taken in America)
 
 ### Origins on Bornholm
 
-Bornholm is a Danish island in the Baltic Sea, southwest of Sweden — about 23 miles long, 18 miles wide, with steep cliffs, rocky approaches, fertile farmland, and at its highest point (530 feet) a crystal clear cold spring flowing into green fields. This is where Willard Kofford was born on May 24, 1858.
+Bornholm is a Danish island in the Baltic Sea — about 23 miles long, 18 miles wide, steep-cliffed, fertile, with a cold crystal spring at its highest point flowing into green fields. Willard was born there May 24, 1858, the first child of Lars Kofoed Busk (later Louis Kofford) and Cecelia Kristine Jensen. Siblings: Erastus Emanuel, Jacob Hyrum, and sister Brigamine Thaldine ("Mena"). A baby Joseph was born and died the same day. His father had a prior wife who died after eight children; Cecelia brought two children — Charles Johnson and "Genie" who died at seven.
 
-His parents were Lars Kofoed Busk (later known as Louis Kofford) and Cecelia Kristine Jensen. Willard was the first child of this union. His siblings were Erastus Emanuel, Jacob Hyrum, and a sister known as Brigamine Thaldine ("Mena"). A baby Joseph was also born but died the same day. Willard's father had a prior wife, Nicotine Petera Low, who died after bearing eight children. Cecelia brought two children from before her marriage to Lars: Charles Johnson and Edvartigene Sonne ("Genie"), who died at age seven.
+Willard described his childhood as happy. He was devoted to his mother.
 
-Willard's childhood on the island was described by him in later years as happy. He spoke of his parents and siblings with fondness. He was particularly devoted to his mother.
+Mormon missionaries converted his mother first — baptized November 10, 1851. His father was baptized June 9, 1860. The family had been faithful Lutherans; the missionaries were always welcomed and given the best food while the large family ate what was left.
 
-### Conversion and Early Life
+Willard was baptized March 31, 1868, by Elder P. Nielsen. He was known as Janus Villard Busk. He was never christened in the Lutheran church.
 
-Mormon missionaries contacted the family and converted Willard's mother first. She was baptized on November 10, 1851, by Elder Jensen and confirmed the following day. His father was baptized June 9, 1860, by Elder M. Anderson. The family had been faithful members of the Lutheran Church, in which attendance was expected. As Willard recalled, he was "forced to go to church regularly with his father." But the missionaries were always welcome in their home — given the best food while the large family had what was left.
+At age 13 in 1871, he was working on a farm. He and a friend cooled off from the summer heat in a cold spring. He got rheumatic fever; an abscess formed on top of his head and had to be lanced, leaving a one-inch scar he carried the rest of his life.
 
-Willard himself was baptized in the Suse on Bornholm on March 31, 1868, by Elder P. Nielsen. He was then known as Janus Villard Busk. He was never christened in the Lutheran church.
+His parents and sister Mena emigrated to America in 1874, sailing from Liverpool September 2, under Captain John C. Graham, arriving Salt Lake City September 23, 1874.
 
-In 1871, when Willard was 13, he was working on a farm. After getting hot and sweaty in the fields, he and a friend would plunge into a nearby cold spring. This resulted in rheumatic fever. The infection localized on top of his head, forming an abscess that had to be lanced, leaving a one-inch scar he carried for the rest of his life.
+### Staying Behind
 
-His parents and sister Mena emigrated to America in 1874, sailing from Liverpool September 2, 1874, under Captain John C. Graham and arriving in Salt Lake City on September 23, 1874.
+Willard stayed in Bornholm. He was learning stone cutting and masonry — and wasn't about to apprentice under his older brother Lars in carpentry. He became a skilled stone and brick mason, laying many buildings. Each time he finished a chimney, he would stand on his head on top of it — to the delight of the crowds that gathered to watch.
 
-Willard stayed behind. He was learning the trade of stone cutter and mason and wanted to complete his training. His older brother Lars was already established in carpentry — and Willard, characteristically, wasn't about to have his big brother telling him what to do. He became a skilled stone and brick mason in Bornholm, laying many buildings there. Each time he laid the last stone on top of a chimney, he would stand on his head on top of the chimney — to the delight of crowds who gathered to watch.
+A friend offered him use of a square rod of land if he could clear it of rocks. Willard buried the rocks, planted mustard seed, earned enough from the yield to buy a suit of clothes.
 
-He had a run-in with church leadership when, after his parents left, he dressed in his best clothes one Sunday morning and went strolling with a big cigar in his mouth. The Presiding Elder saw him and he was cut off from the church. Willard told this story with amusement in later years, adding that no record of it was ever found — it may have been one of his entertaining embellishments.
+Letters from family in America spoke of milk and honey in Utah. Willard gave away most of his clothes — including many of his 24 shirts (Bornholm custom was to layer shirts for warmth; you gauged weather by how many shirts you wore, not temperature). He sailed on the *Wisconsin*, September 13, 1877, arriving in Utah at age 19.
 
-A friend offered him the use of a square rod of land if he could clear it of rocks. Willard buried the rocks, planted mustard seed, and earned enough from the yield to buy a suit of clothes.
+### Arriving in America
 
-### Coming to America (1877)
+On arrival: deep disappointment. Clothing was scarce. He was the only man at church wearing a suit. He resolved to speak perfect English, which he did — no trace of an accent in later years.
 
-Letters from family in America painted Utah as a land of milk and honey. Willard gave away most of his clothes — including many of his 24 shirts (Bornholm custom was to layer shirts for warmth; one shirt weather, two shirt weather, three shirt weather). He was certain he could get better clothes in Utah. At age 19, on September 13, 1877, he sailed on the ship *Wisconsin* for Utah.
+He never wore overalls as other farmers did. His attire: white shirt with celluloid collar (wipeable, to avoid washing), black ready-tied tie, black pants with suspenders, black sleeve guards from elbow to wrist, black derby hat. Summer: white Panama dress hat. He believed clothes should be washed only twice yearly — washing wore them out.
 
-On arrival he was deeply disappointed: there was a scarcity of clothing. He was the only man at church wearing a suit. He always liked nice clothes.
+His first job was on the Tom Belliston farm in Nephi. Danish manners required a guest to be invited three times before accepting. Noon came — everyone was called in to eat. He politely refused the first invitation. And the second. He sat waiting for the third. It never came. He went hungry. The next day he accepted on the first invitation — Danish manners forgotten.
 
-This became a permanent characteristic. Willard never wore overalls as other farmers did. His attire was: a white shirt with a celluloid collar (which could be wiped clean), a black ready-tied tie, black pants with suspenders, black sleeve guards to protect his shirt cuffs from soil, and a black derby hat. In summer he wore a white Panama dress hat. He believed, as taught in Bornholm, that clothes should be washed only twice yearly — washing wore them out. Despite this, he always looked clean and well-groomed. He carried himself with dignity.
+A job tending cows: he tried to tie them together as they did in Bornholm. The cows broke loose, mud flew, wooden shoes sailed. In Bornholm, tending cows was women's work. He was mortified when a relative wrote home to Bornholm reporting this.
 
-He also resolved to speak perfect English, and he did so, with no trace of a Danish accent in later life.
+He got work building houses in Mt. Pleasant and Spring City — many of which still stood decades later.
 
-### First Years in Utah
+His mother suffered terribly from arthritis, growing crippled. She planned to be baptized at the Manti Temple for her health and asked Willard: if this healed her, would he become active in the church? "You bet I will," he said. After the dunking she felt worse. So he didn't have to start going to church.
 
-When Willard arrived, he got a job on the Tom Belliston farm in Nephi. When noon came, all the hired men were invited into the farmhouse to eat. Danish manners required a person to be invited three times before accepting. Willard politely refused the first invitation. And the second. He sat waiting for the third — which never came. He went hungry. The next day he accepted on the first invitation, and never looked back.
+One day helping the Bishop drive cattle, three stray calves joined the herd. The Bishop: "Let them stay, I'll pay the owner." Willard knew he had no intention of paying. From this and other acts, Willard decided he wanted nothing to do with a church led by men like this Bishop.
 
-He also had a job tending cows. In Bornholm, cows were led to water tied together. Willard tried this — the cows broke loose, mud flew, wooden shoes sailed. He gave up. Back home, caring for cows was a woman's job. He was deeply embarrassed when a relative wrote to Bornholm reporting that Willard had such a job.
+### Marriage
 
-He eventually got work building houses in Mt. Pleasant and Spring City, many of which still stood decades later.
+He met Christena Neilson — described as "a sweet delicate little girl." They married **November 14, 1881** in Mt. Pleasant.
 
-His mother was suffering terribly from arthritis, becoming increasingly crippled. She planned to go to the Manti Temple to be baptized for her health and asked Willard if, should this heal her, would he become active in the church? "You bet I will," he said. But after the dunking she felt worse. So he didn't have to start going to church again.
+Daughter Hanna Christena born December 12, 1882. Son Willard Hogan ("Bill") born September 26, 1884. Son Clarence Louis born July 31, 1887.
 
-One day Willard was helping the Bishop at Mt. Pleasant drive cattle. Three stray calves joined the herd. Willard moved to cut them out, but the Bishop said: "Oh, let them stay with the herd, I'll pay the owner." Willard knew he had no intention of paying. From this and other acts, Willard decided he wanted nothing to do with a church led by men like that Bishop.
+The family ran a dairy 12 miles west of Chester — 40 head of cattle, cream churned to butter, two-pound rolls hauled 12 miles to Mt. Pleasant for $0.30 a roll. In summer heat, Willard packed butter in a wooden box lined with cool green grass in the back of the white-top buggy and rushed it to market. The family couldn't afford to keep the butter — they spread fry grease on bread instead.
 
-### Marriage and Family Life in Mt. Pleasant
+He won a lottery — $1,000 — and built a buggy shed, feed barn, and horse stable with stalls for six horses, plus purchased six buggies. He ran a hack service: when the train brought businessmen to town, Willard transported them to nearby towns for hire.
 
-Willard met and married Christena Neilson, whom he described as "a sweet delicate little girl." Their marriage took place in Mt. Pleasant on November 14, 1881.
+Once the circus came to Mt. Pleasant. Willard had an order for oats to be delivered there but his horse wouldn't walk forward toward the noise and commotion. Willard steered him backward for two full blocks to the circus grounds and delivered the oats.
 
-Their first child, a daughter, Hanna Christena, was born December 12, 1882. Then on September 26, 1884, a son was born: **Willard Hogan Kofford** — later nicknamed "Bill" — who would become Erik's great-grandfather.
+Their daughter Hanna died December 20, 1891 (see Christena's biography above for the full account of that evening).
 
-When expecting their next child, they moved temporarily to Mt. Pleasant; on July 31, 1887, son Clarence Louis was born in a little rock house there. After Clarence's birth the family returned to their dairy farm west of Chester.
+Willard's mother Cecelia had been crippled with arthritis for 15 years, her knees drawn up under her chin. His sister Mena cared for her faithfully until she died December 16, 1890. That night the dogs near Willard's home howled and howled. He knew his mother was very ill. When a rider came the next day with the news, he had been expecting it.
 
-Willard was a shrewd businessman. When a lottery was held, he won — taking the $1,000 prize to build a buggy shed, feed barn, and horse stable with stalls for six horses, plus purchasing six buggies. He ran a hack service, transporting businessmen and visitors arriving by train to nearby towns.
+### The Move to Provo Bench (1896)
 
-The dairy operation ran on butter sales. Christena and Willard milked 40 head of cattle, churned cream into two-pound rolls of butter, and hauled them 12 miles to Mt. Pleasant, selling for $0.30 a roll. In hot weather, Willard would pack the butter in a wooden box lined with cool green grass, load it in the white-top buggy, and rush it to market before it melted. The family usually couldn't afford to keep the butter — they spread fry grease on their bread instead.
+He traded the farm for a home in Mt. Pleasant, opened a grocery store, then moved to Aurora when the railroad was being built. Business was excellent for three months — then the construction moved on. He sold the Aurora business and headed north.
 
-Tragedy struck on December 20, 1891: their daughter Hanna died of rheumatic fever. Willard bought a lot in the Mt. Pleasant Cemetery and buried her in the snow, having to guess where the lot boundaries were. When the snow melted, her grave was found near the center of the lot. She lay there alone in the cemetery decades later when the life history was written.
+They stopped in Goshen — couldn't get clear title to land. Camped three weeks. Left the wagon and drove ahead in the white-top buggy. One moonlit night in June they camped at a livery stable at about 365 South State in Provo Bench. Frogs croaked on the banks of the pond. The next morning Mrs. Salisbury was picking strawberries across the road. They bought a quart for $0.25. Delicious.
 
-### The Move North — Finding Orem (1896)
+Willard was struck. He turned back rather than going on to Logan. Found five acres at 255 North State Street — owner was in jail, needed money. Paid $125. June 1896.
 
-Willard's grocery store in Aurora did well for three months while the railroad was being built through town. When the construction moved on, business dried up. The family loaded all belongings into their wagon and white-top buggy and headed north.
+He returned to Goshen for the wagon and belongings, made camp under shade trees at 4th North and State, made a day trip to American Fork for lumber. Built a one-room home. Plastered the walls with sand and clay. Stretched cloth over ceiling joists. Tried sawdust insulation between walls — miserable when the wind blew, sawdust everywhere.
 
-They stopped in Goshen but couldn't get clear title to any land. After camping three weeks, they left the wagon and drove ahead in the buggy to visit relatives in Lehi and look for a home.
+Their irrigation water flooded the campsite one night. They moved into the unfinished house. He went to retrieve his cow from Mt. Pleasant friends — arrived to find she had bloated and died three weeks earlier. He bought another, built a strong corral, took the rope off, turned away to hang it up — and the cow was already out behind him.
 
-One moonlit night in June, they camped at a livery stable at about 365 South State Street in Provo Bench. The frogs croaked contentedly on the banks of a pond where the horses drank. The next morning a woman named Mrs. Salisbury was picking strawberries across the road. They bought a quart for $0.25. The berries were delicious.
+### Building Sharon / Orem
 
-Willard was struck by Provo Bench. He turned back instead of going on to Logan. After inquiry, he found five acres at 255 North State Street for sale — the owner was in jail and needed money. Willard bought it for $125.00 in June 1896.
+Willard became a founding citizen of what became Orem City:
+- Helped build the Big Bench Canal — dug by hand with picks and shovels for miles from Provo Canyon, the surveying method being to dig until water flowed and follow it uphill.
+- Partnered with Mrs. Melissa McBride in the general store and Sharon Post Office at about 6th North State.
+- Organized and erected a 60-foot flagpole on the Sharon School yard. Drove to Salt Lake to buy a flag — 8x14 feet, the only size available. Raised and lowered it daily until someone stole the rope. Young Will Park climbed the 60-foot pole for all the soda pop he could drink to thread a new rope.
+- Bought 40 acres where Orem City Hall and park now stand. Later traded to John D. Dixon for 20 acres from 3rd to 4th North, Main Street to 2nd East. Planted peaches on much of it. Later gave five acres south to son Bill, five acres north to Clarence.
 
-They returned to Goshen for the wagon and belongings, then came back to Provo Bench and made camp under shade trees at the southwest corner of 4th North and State Street. A day-long trip to American Fork brought lumber. Willard built a one-room home on the five-acre farm.
+### The Departure (1908)
 
-The walls were plastered with sand and clay. The ceiling wouldn't hold plaster, so cloth was stretched over the ceiling joists. Willard tried to insulate the walls with sawdust poured between the joists — miserable when the wind blew, sawdust flying through the room.
+One summer day in 1908, Mrs. McBride took Christena along to visit a daughter in Lake View. While Christena was gone, **Willard hitched the team to the wagon, loaded all his personal possessions, and headed for Salt Lake City.** He found work in the city, met a woman with a 16-year-old daughter named Hazel Franks, and married **Carrie Lindsey** on December 3, 1908. The divorce decree was granted November 1908.
 
-When the family was settled, Willard went to Mt. Pleasant to retrieve the cow he'd left with friends. He arrived to find she had bloated and died three weeks earlier. He bought another cow. He built a strong corral of long poles, took the rope off the cow, locked her in, turned away to hang up the rope — and she was already out and right behind him. He had to rebuild.
+Carrie died in 1913.
 
-### Building the Community of Sharon (Orem)
+When Christena's son Bill answered the door to find Mrs. McBride standing there asking if she could do anything to help, he grabbed the broom and went at her. She took the hint and left — and later married Christena's own brother Hyrum.
 
-The area was then called Provo Bench or Sharon. Willard became one of the founding citizens of what would become Orem City.
+### Return and Final Years
 
-He helped build the Big Bench Canal — dug with picks and shovels by local men, running for miles from Provo Canyon to bring irrigation water to the dry bench land. The surveying method: dig deep enough that water forms a small stream, and follow it until the level is reached. The canal transformed the barren sagebrush land.
+After Carrie's death, Willard visited his sons. He got Clarence a job at Keith O'Brien's in Salt Lake; Willard worked there as receiving clerk. Messages passed through Clarence. Christena knitted Willard socks. Friendship grew until Christmas 1915 — she invited him, he came, it was a wonderful Christmas, and he stayed on.
 
-He purchased the general store and Sharon Post Office at about 6th North on the State road, partnering with Mrs. Melissa McBride, the postmistress. 
+A bed was put in the parlor. Stenie worried about what people would say. She couldn't send him away. *"She hadn't yet forgiven him enough to remarry him."*
 
-He organized and erected a 60-foot flagpole on the Sharon School yard. The metal bands and weather vane were made by blacksmith Will Rosequist. Christen Jacobsen dug the hole. Willard drove to Salt Lake in horse and buggy to buy a flag — 8 x 14 feet, the only size available. He raised and lowered the flag each day. It could be seen from the mouth of Provo Canyon over the sea of silvery sagebrush that covered much of the Bench. He kept this up until someone stole the rope. A young boy named Will Park was promised all the soda pop he could drink if he would climb the 60-foot pole and thread a new rope through the pulley at the top. The crowd watched breathlessly as he inched up and slid back down to claim his reward.
+He was at her bedside when she died March 18, 1916.
 
-Willard bought 40 acres of land where Orem City Hall and park are now located. He later traded it to John D. Dixon for 20 acres running from 3rd to 4th North and from Main Street to 2nd East. He planted peaches on much of the farm. Later he and Christena gave five acres on the south to their son Willard Hogan ("Bill"), and five acres on the north to son Clarence, keeping ten acres through the middle.
+After the estate was settled, Bill and Veda moved into Stenie's part of the house. Willard eventually bought a small two-room house across the street and lived alone there the rest of his life.
 
-### The Divorce (1908)
+He read the morning Tribune front to back each day. Sat in front of Bill's Service Station and watched people go by. His eyesight dimmed until he could barely see to make his meals. Never complained. Too proud.
 
-The life history of Willard Kofford, as told to his granddaughter Beula Keetch, is remarkably candid about the marriage ending. In the summer of 1908, Mrs. McBride — the business partner whom the history describes as "a likable, dressy and winsome woman" with "many gentleman friends" who visited the Kofford home often — took Christena along on a visit to a daughter in Lake View. "While Stenie [Christena] was gone, Willard..." the history trails off delicately.
+During this time, Willard confided his regrets to Bill's son-in-law Vie Christensen, who operated the service station. He regretted bitterly how he had treated Stenie and his family. *"His confessions to Vie were pitiful. He had plenty of time to truly repent. And repent he did."*
 
-The divorce decree was granted in November 1908 (reported in the Salt Lake Tribune, November 11, 1908). Willard married Carrie Lindsey on December 3, 1908 in Salt Lake City.
+He was a sweet old grandfather who loved his family. His grandson Weston watched over him. One late afternoon Weston found Grandpa lying peacefully on his bed, hands folded across his chest — passed away during his afternoon nap, **January 18, 1939**.
 
-Christena was ill with cancer before the divorce was final. It was heartbreaking for Willard to see her suffer. She passed away in July 1913. 
-
-Carrie Lindsey Kofford survived Willard but the marriage produced no children.
-
-### Later Years
-
-After Christena's death, Willard spent time in Salt Lake working at Keith O'Brien's department store (one of the largest in Salt Lake) as receiving clerk. Clarence worked there as night watchman.
-
-Christmas 1915: Christena — still living — invited Willard to spend the holiday with the family. He did, and it was described as "such a Merry Christmas with all the family together again." After Christmas he continued to stay, sleeping in the parlor. Christena worried about what people would say. She couldn't send him away. "To marry him again was impossible. She hadn't become that forgiving."
-
-On her 60th birthday, the family held a dinner party in her honor. Soon after, she fell in the back yard and hurt her hip. Pneumonia set in. On March 18, 1916, Christena passed away, with Willard and her two sons at her bedside.
-
-After the estate was settled, Bill and Veda moved into Christena's part of the house. Willard eventually bought a small two-room house across the street and lived alone there for the remainder of his life.
-
-He read the morning Tribune from front to back each day. He sat in front of Bill's Service Station and grocery store and watched people come and go. As his eyesight dimmed, he could no longer see to read. For years he could hardly see to get his meals. He never complained. Too proud to ask for help.
-
-His grandson Weston (Bill's son) kept close watch on him. One late afternoon Weston found Grandpa lying peacefully on his bed, hands folded across his chest. He had passed away during his afternoon nap on January 18, 1939.
-
-His funeral was held at Hatch Mortuary in Provo. He had always requested that nothing be said by speakers about him or his accomplishments. His wish was honored. He was buried beside Christena in the Provo City Cemetery on January 23, 1939.
-
----
-
-## Christena Neilson
-
-**Born:** March 6, 1856 (some records: March 22, 1856), Kvistofta, Malmöhus, Sweden
-**Died:** March 18, 1916, Orem (Sharon Ward), Utah (age 60)
-**Also known as:** "Stenie" (family nickname)
-
-### Birth and Early Life in Sweden
-
-A baby girl was born to Hogan (Håkan) Neilson and his wife Johanna Larson Neilson in the village of Kvistofta, in the Malmöhus (Skåne) region of Sweden. The family had moved from Rydeback to Kvistofta sometime before their second daughter arrived.
-
-She was christened April 27, 1856, in the Lutheran Church and named Christena. She was carried to the altar by Mrs. Assarina Holmgren; witnesses were Andres Jeppsson and his wife Bengta from Glumslöf.
-
-Christena had an older sister, Matilda (age 6 when they emigrated), and a younger sister, Hanna (age 1 at emigration). Her parents were devout Lutherans when Mormon missionaries contacted them.
-
-### Conversion and Emigration
-
-The missionaries converted the family. Matilda, in her own history, wrote that they were baptized at night to avoid persecution from mobs. They immediately began preparing to emigrate to Utah.
-
-Before they left, an uncle gave each of the three little girls $500.00, deposited in the Bank of Stockholm. "Use it when you need it," he told them. The money was discussed in the family for years — but it was never taken out of the bank.
-
-**May 2, 1860:** Håkan, Johanna, and their three daughters — Matilda (6), Christena (4), and Hanna (1) — boarded the steamship *Pauline* at Copenhagen, Denmark. They arrived at Grimsby, England on the 5th, traveled by rail to Liverpool on the 6th, and on **May 7, 1860** boarded the steamship *William Tapscott* for Utah.
-
-The voyage was long and often rough. Father and Matilda bore it better than the pregnant mother and the two smaller girls. On Sunday, June 3, smallpox appeared among the Scandinavian Saints aboard. Little Hanna — just over a year old — became very ill. She died June 11. The family was overcome with grief as their little girl was strapped to a board and slid over the side of the ship into the ocean.
-
-The ship reached quarantine at New York harbor on the evening of June 15. Doctors vaccinated nearly everyone aboard. After five or six days in quarantine, passengers were landed at Castle Garden on June 20. They traveled up the Hudson to Albany, then via Rochester, Niagara Falls, Detroit, Chicago, and Quincy to St. Joseph, Missouri, then by steamboat up the Missouri River to Florence, Nebraska, arriving the night of June 30, 1860.
-
-### Florence, Nebraska — First American Winter
-
-The family found shelter in an empty house in Florence and settled for the winter. On October 14, 1860, a baby boy was born. They named him Hyrum. The little sisters were so happy with this new baby — they had missed Hanna terribly.
-
-### Crossing the Plains (1861)
-
-They began preparing early in spring. Håkan bought a wagon, three oxen, and a cow. On July 13, 1861, they joined the **Samuel A. Woolley ox train company** and headed for Utah.
-
-The life history notes: "Christena and Matilda were happy to once again be on their way to Utah. The trip was hot, dry, and dusty." No further detail of the crossing is preserved, but they arrived safely in Utah.
-
-### Life in Mt. Pleasant and Marriage
-
-The family settled in Mt. Pleasant, Sanpete County. Christena grew up there. Her sister Matilda eventually married George Wilcox and settled in Logan.
-
-Christena married **Willard Kofford** on **November 14, 1881** in Mt. Pleasant. She was 25, he was 23. The life history calls her "a sweet delicate little girl." She was known within the family as "Stenie."
-
-### Family and Farm Life
-
-She and Willard raised two surviving children: Hanna Christena (b. December 12, 1882, died December 20, 1891 of rheumatic fever) and **Willard Hogan Kofford** (b. September 26, 1884 — Erik's great-grandfather).
-
-Son Clarence Louis was born July 31, 1887 on a temporary stay in Mt. Pleasant; the rest of the time the family lived on a dairy farm three miles west of Chester. The farm work was rigorous: milking 40 head of cattle, churning cream to butter, hauling it 12 miles to market. Christena managed the household on very little. The family usually couldn't keep the butter they made — they spread fry grease on bread instead.
-
-When the family moved through Aurora and then stopped at Provo Bench in the summer of 1896, it was Christena who managed the household while they camped — through the irrigation flood that swamped their campsite, through the sawdust insulation that blew through the walls, through the years of building a new community.
-
-### Community Life in Sharon/Orem
-
-The Sharon Ward was the LDS congregation in the new community. Christena, unlike Willard, remained active in the church throughout her life. She was known as a faithful woman. The Ward meeting house was where her funeral services were held on March 19, 1916.
-
-The life history reveals her courage in a painful personal situation. After Willard's affair and the divorce in 1908, Christena — ill with cancer — faced the dissolution of her 27-year marriage. She is portrayed as resilient: when Willard came back at Christmas 1915 and then kept staying, she could not send him away. But "to marry him again was impossible. She hadn't become that forgiving." Despite this, she died with him at her bedside.
-
-### Death
-
-Christena fell in the back yard and hurt her hip. Pneumonia followed. She passed away **March 18, 1916**, at age 60. Her obituary in the *Daily Herald* described her as "born in Sweden, came to Utah in 1861 and lived at [Mt.] Pleasant, Sanpete county, until [a few] years ago when she with her husband and family moved to Provo." She was survived by her husband and two sons, one brother, and one sister.
-
-She was buried in the Provo City Cemetery. Willard was later buried beside her in 1939.
+His funeral was held at Hatch Mortuary in Provo. He had always requested that nothing be said about him or his accomplishments. His wish was honored. He was buried beside Stenie in the Provo City Cemetery, January 23, 1939.
 
 ---
 
 ## Their Story Together
 
-Willard and Christena met in Mt. Pleasant in the early 1880s — he the Danish mason and entrepreneur, she the Swedish pioneer who had crossed the ocean at age four and buried her baby sister at sea. They married in 1881 and built a life together through dairy farming, hack service, grocery stores, and finally the founding of what became Orem, Utah.
+Willard and Christena met in Mt. Pleasant in the early 1880s — he the Danish mason and entrepreneur who had stood on his head atop chimneys and buried rocks in Bornholm to buy a suit; she the Swedish orphan girl who had crossed the ocean at age four, buried her baby sister at sea, and walked to Utah behind an ox that had to be replaced by a cow.
 
-The land Willard bought for $125 in 1896 is now the center of a city of 100,000 people. The 40 acres where Orem City Hall and park now stand were once Willard's peach orchard. Bill's Service Station stood across from his father's small house in the 1930s. Willard sat out front and watched the world go by until he could no longer see clearly.
+They shared 27 years of marriage — dairy farming, hack service, grocery stores, the death of their daughter, the founding of what became Orem. She kept an immaculate home and raised their sons to be clean. He wore a derby hat to plant peaches and never owned overalls.
 
-Their marriage ended in divorce in 1908 — one of the candidly preserved family wounds. The reunion at Christmas 1915, the deathbed vigil of March 1916, and Willard's burial beside her 23 years later all speak to something durable underneath the rupture.
+The marriage broke under the weight of Mrs. McBride in 1908. Christena spent the next years selling butter and eggs to survive, crying until her eyelashes fell out, trying to be strong for grandchildren she wouldn't let go barefoot. The broom her son Bill swung at Mrs. Mac's door is one of the more vivid gestures in the family record.
 
-Their son **Willard Hogan Kofford ("Bill")** married **Veda Meiling**, and their daughter **Veda Alene Kofford** met and married **Paul Hector Taylor** in 1934 — continuing the line that leads to Erik.
+The ten-day reconciliation of Christmas 1915 — his bed in the parlor, her worry about what people would say, her resolve not to remarry him, and his sitting at her bedside as she died three months later — is among the most human passages in the family history.
+
+He was buried beside her 23 years after she died.
+
+The land Willard bought for $125 in 1896 is now the heart of a city of 100,000. Their son Bill's service station stood across the street from Willard's little house in the 1930s. Erik's grandmother Veda Alene Kofford grew up in the adjoining rooms of that same house.
 
 ---
 
 ## Sources
 
-- *Life History of Willard Kofford as Told to Beula K. Keetch*, formatted by Pam Kofford Reschke, May 2016 (10 pages, full text retrieved from FamilySearch Memories)
-- *Life of Christena Neilson Kofford* (9 pages, full text retrieved from FamilySearch Memories)
-- Obituary: *The Daily Herald* (Provo, Utah), January 19, 1939 — "Willard Kofford Dies at Orem"
-- Obituary: *The Daily Herald* (Provo, Utah), March 20, 1916 — "Mrs. Kofford Died at Sharon Sunday"
-- Divorce decree notice: *Salt Lake Tribune*, November 11, 1908 — "Divorce Decree Granted"
-- Marriage notice: Willard Kofford and Carrie Lindsey, December 3, 1908, Salt Lake City (license #7384)
-- Pedigree chart from Beula Kofford Keetch, transcribed by Travis Christensen
-- Life history of Clarence Louis Kofford (son), excerpts in GEDCOM notes N4180, N4182
-- FamilySearch GEDCOM extract, ebt5 account, April 19–20, 2026
-- GEDCOM notes: N86–N91, N122–N130, N188, N4161–N4182
+- *Life History of Willard Kofford as Told to Beula K. Keetch*, formatted Pam Kofford Reschke, May 2016 (10 pages, full text)
+- *Life of Christena Neilson Kofford* (9 pages, full text) — including the Mrs. McBride account on p.5-6, Hanna's death on p.4-5, and the closing reflection on p.7
+- Obituary: *The Daily Herald* (Provo, Utah), January 19, 1939
+- Obituary: *The Daily Herald* (Provo, Utah), March 20, 1916
+- Divorce notice: *Salt Lake Tribune*, November 11, 1908
+- Marriage license #7384: Willard Kofford and Carrie Lindsey, December 3, 1908
+- Samuel A. Woolley company roster, Journal History September 22, 1861
+- Church Emigration records, *William Tapscott* 1860 (730 souls)
+- Life history of Clarence Louis Kofford (son)
+- FamilySearch GEDCOM extract, ebt5 account, April 2026
 
 ---
 
-*Biography assembled by Prickle from life histories, obituaries, and GEDCOM data, April 2026. The full life history of Willard Kofford (10 pages) and the life history of Christena Neilson (9 pages) are both available in FamilySearch Memories and served as the primary sources for this biography.*
+*Biography assembled by Prickle from full life histories retrieved from FamilySearch Memories, April 2026. All direct quotations are from the primary source documents.*
