@@ -1,9 +1,9 @@
 # Owen Owens & Jane Parsons
 
-**Relationship to Erik Byron Taylor:** 3× great-grandparents
-**Line:** Erik → Cynthia Ann Naylor → Marian Rula Ward → Ernest Trulock Ward → John Welton Ward → **Ellenor Mary Owens** (daughter of Owen & Jane) → married John Joseph Ward
+**Relationship to Erik Byron Taylor:** 4× great-grandparents
+**Line:** Erik → Cynthia Ann Naylor (mother) → Marian Rula Ward (grandmother) → Ernest Trulock Ward → John Welton Ward → **Ellenor Mary Owens** (daughter of Owen & Jane) → married John Joseph Ward
 
-The line runs through Erik's maternal side (Naylor/Ward). Owen and Jane's daughter Ellenor Mary Owens married John Joseph Ward; their son John Welton Ward married Beatrice Prouse; their son Ernest Trulock Ward married Marian Rula Ward — who became Erik's grandmother Cynthia Naylor's mother.
+The line runs through Erik's maternal side. Owen and Jane's daughter Ellenor Mary Owens married John Joseph Ward; their son John Welton Ward married Beatrice Prouse; their son Ernest Trulock Ward married Anna Elizabeth Barker; their daughter Marian Rula Ward married Clarence Jordan Naylor — and their daughter is Cynthia Ann Naylor, Erik's mother.
 
 **FamilySearch IDs:**
 - Owen Owens: KWJ8-T9H
@@ -73,7 +73,7 @@ He first saw Jane at a dance. His grandson William W. Owens, writing in 1958: *"
 **Also known as:** "Grandmother Owens" (family)
 **Parents:** William Parsons (b. March 27, 1807, Worcestershire, England; d. 1882, Willard, Utah) and Mary Jenkins Parsons (b. September 28, 1813, Herefordshire, England; d. August 13, 1892, Willard, Utah)
 
-*Note: Jane was married October 2, 1857 — eleven days before her fifteenth birthday.*
+*Note: Jane was married October 2, 1857 — eleven days before her 15th birthday. She was 14 years old.*
 
 ### The Parsons Family: English Converts in Nauvoo
 
@@ -190,7 +190,7 @@ At her funeral there was a **65-year-old daughter** present, along with many oth
 
 She had lived long enough to see her grandchildren settled, her missionary grandson's diary treasured, and the church she and her parents had walked away from England to join become firmly rooted in the Utah soil she had helped plow.
 
-Her grandson William W. Owens, writing about her in 1958: *"She was married to Owen Owens 11 days before she turned 15 years of age. She lived until she was 80. She had a 65 year old daughter at her funeral plus many others of her 9 children and their children."*
+Her grandson William W. Owens, writing about her in 1958: *"She was married to Owen Owens when she was 14 — eleven days before her 15th birthday. She lived until she was 80. She had a 65 year old daughter at her funeral plus many others of her 9 children and their children."*
 
 ---
 
@@ -206,7 +206,7 @@ Owen, who survived that week on the Mississippi as a thirteen-year-old boy, neve
 
 ## The Family Line Forward
 
-Owen and Jane's daughter **Ellenor Mary Owens**, born 1858/1859, married **John Joseph Ward**. Their son **John Welton Ward** married **Beatrice Ann Prouse**. Their son **Ernest Trulock Ward** married **Marian Rula Ward** (no relation by blood; common surname). Their daughter **Cynthia Ann Naylor** (née Ward) became Erik Taylor's mother's mother — making Owen and Jane Parsons Owens Erik's 3× great-grandparents.
+Owen and Jane's daughter **Ellenor Mary Owens**, born 1858/1859, married **John Joseph Ward**. Their son **John Welton Ward** married **Beatrice Ann Prouse**. Their son **Ernest Trulock Ward** married **Anna Elizabeth Barker**. Their daughter **Marian Rula Ward** married **Clarence Jordan Naylor**. Their daughter **Cynthia Ann Naylor** is Erik Taylor's mother — making Owen and Jane Parsons Owens Erik's 4× great-grandparents.
 
 The Nauvoo Temple Jane saw as a little girl on her father's shoulders. The cholera river Owen survived at thirteen. The dance where he danced in his bare feet and first saw Jane. The first wooden roof in Willard. Braided wheat hats, linsey cloth, and the last load of hay the day before the wedding. Twenty-five years as Relief Society counselor. Milk wagons to Pleasant View. A horse that was "not a good looker."
 
