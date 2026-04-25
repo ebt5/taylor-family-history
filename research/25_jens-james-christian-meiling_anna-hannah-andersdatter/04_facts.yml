@@ -86,17 +86,26 @@ parents:
 
 marriage:
   - between: Jens and Hannah
-    value: 1863
-    place: unresolved in current extraction
-    source: Hannah obituary
-    confidence: medium
+    value: 1863-11-10
+    place: likely Mount Pleasant / Utah Territory; exact place not yet confirmed in extracted newspaper items
+    source:
+      - Hannah biography pages 5-6 summary
+      - Hannah obituary
+    confidence: medium-high
 
 children:
+  - Anthomina "Annie" Meiling
+  - Erastus "Jack" Meiling
+  - Sarah "Sadie" Meiling
+  - Hannah Margaret "Peggy" Meiling
+  - Olivia Mary Meiling
+  - Earl Henry Meiling
   - Veda Meiling
   - count_claim: 7
     source:
       - Hannah obituary
       - 1902 Manti paper
+      - Hannah biography pages 6-8 summary
     confidence: high
 
 residences:
@@ -118,13 +127,42 @@ residences:
 
 service:
   - person: Jens
-    value: military service in Sanpete and Sevier
+    value: military service / guard duty in Sanpete and Sevier during Black Hawk War-era conditions
     dates: 1866-04-01, 1867-05-01
-    source: GEDCOM I25
+    source:
+      - GEDCOM I25
+      - Jens biography pages 8-14 summary
+    confidence: medium
+
+occupations:
+  - person: Jens
+    value: farmer
+    source: newspaper + biography summary
+    confidence: high
+  - person: Jens
+    value: brickmaker / builder / carpenter / beekeeper / irrigation stockholder / watermaster / roadmaster
+    source: Jens biography pages 8-14 summary
+    confidence: medium
+  - person: Hannah
+    value: homemaker / nurse within family and community memory
+    source: Hannah biography pages 6-8 summary
+    confidence: medium
+
+religion:
+  - person: Jens
+    value: baptized LDS in Denmark on 1853-09-25; later asked to have name removed from church records after Colorado colonization difficulties
+    source:
+      - Jens biography p1 summary
+      - Hannah biography pages 8-9 summary
+    confidence: medium
+  - person: Hannah
+    value: baptized LDS in 1857; later followed James in having name removed from church records; later family memory says both regretted it
+    source: Hannah biography pages 5 and 8-9 summary
     confidence: medium
 
 claims_needing_resolution:
-  - exact marriage date/place not yet extracted into case folder
-  - Jens death details should be confirmed from obituary / 1902 Manti paper
-  - Hannah obituary/funeral should confirm family relationships and late-life move to Oregon
-  - child count beyond direct-line Veda needs extraction from biographies
+  - exact place of Jens/Hannah marriage should be confirmed from full prose or vital records
+  - Jens death details should be confirmed from obituary / 1902 Manti paper with exact day/date phrasing
+  - Jens immigration chronology is conflicted: some notes suggest John J. Boyd 1855-56 travel alone, compiled biography says Copenhagen departure April 1857 with Scandinavian Saints, newspaper says came to Utah in 1856
+  - Hannah family migration chronology is complex and partly reconstructed from reminiscence rather than fully documented company rosters
+  - first marriage details for Jens and timeline of divorce from Elizabeth Mette Clemensen should be clearly separated from second marriage to Hannah

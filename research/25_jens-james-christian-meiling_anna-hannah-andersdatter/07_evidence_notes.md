@@ -13,6 +13,9 @@
 - Jens died 1 Oct 1902 and was buried 3 Oct 1902; burial date is strong, death date should be checked against newspaper source.
 - Jens's 1866-1867 military entries likely reflect Black Hawk War-era local service.
 - The downloaded biography page sequences are the principal narrative sources for both spouses.
+- Jens and Hannah married 10 Nov 1863.
+- They had seven children together, and Veda Meiling was the youngest.
+- The Colorado colonization episode is a major turning point in the family story and helps explain their later estrangement from the LDS Church.
 
 ## Disputed / unresolved
 - marriage date/place not yet extracted in this case folder

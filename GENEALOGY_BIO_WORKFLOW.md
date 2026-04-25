@@ -141,7 +141,24 @@ Suggested columns:
 - Status
 - Notes
 
-## Step 10 — Drafting
+## Step 10 — Authoring readiness check
+Before drafting, verify the case is actually ready to write.
+
+Output: `09_authoring_readiness.md`
+
+Minimum checks:
+- relationship path verified
+- highest-value narrative sources identified
+- core narrative sources extracted enough to know what they contain
+- key newspaper/certificate items extracted
+- major date/lineage conflicts surfaced in evidence notes
+- unresolved items listed explicitly
+- enough prose excerpts exist to support a non-thin biography
+
+Rule:
+Do **not** draft the biography until this file says the case is ready.
+
+## Step 11 — Drafting
 Writer model gets only:
 - relationship file
 - timeline
@@ -149,6 +166,7 @@ Writer model gets only:
 - prose excerpts
 - evidence notes
 - evidence matrix
+- authoring readiness file
 
 Prompt rule:
 - use prose documents for richness
@@ -158,7 +176,7 @@ Prompt rule:
 
 Output: `drafts/draft_a.md`
 
-## Step 11 — Review
+## Step 12 — Review
 Independent review looks for:
 - wrong generation / lineage
 - date/place mismatches
@@ -168,7 +186,7 @@ Independent review looks for:
 
 Output: `review/discrepancy_report.md`
 
-## Step 12 — Final biography
+## Step 13 — Final biography
 Final writer uses artifacts + discrepancy report.
 
 ## Source reliability classes
@@ -185,9 +203,12 @@ Final writer uses artifacts + discrepancy report.
 
 ## Minimum viable artifacts for each biography
 1. Inventory
-2. Relationship trace
-3. Facts file
-4. Prose excerpts
-5. Timeline
-6. Evidence notes
-7. Final biography
+2. Narrative source identification
+3. Relationship trace
+4. Facts file
+5. Prose excerpts
+6. Timeline
+7. Evidence notes
+8. Evidence matrix
+9. Authoring readiness check
+10. Final biography
