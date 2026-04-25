@@ -105,7 +105,7 @@ This is affectionate family testimony, not courtroom evidence. But it is so spec
 
 ### Illness and Death
 
-By **1900**, according to the family narrative, Jens knew he could not keep up the full strain of farm work much longer. He sold the Birch Creek farm and moved the family back into town because his health was failing. He took cold in **November 1901**, never fully recovered, and died on **1 October 1902**.
+By **1900**, according to the family narrative, Jens knew he could not keep up the full strain of farm work much longer. He sold the Birch Creek farm and moved the family back into town because his health was failing. He took cold in **November 1901**, never fully recovered, and died on **1 October 1902**. The compiled family sketch adds one final detail of real significance: as death approached, **he asked to be rebaptized, but was physically unable to undergo the ordinance before he died**. That detail comes from the later family biography rather than the newspaper notice, but it fits the larger family memory that he regretted the estrangement from the church that had followed the Colorado episode.
 
 The **1902 newspaper notice** is concise and valuable. It calls him:
 
@@ -252,7 +252,7 @@ A few things remain unresolved and should stay visible:
 
 ## Sources
 
-- *Life Sketch of James Christian Meiling (Jens Christian Christiansen)*, compiled by Peggy Ann Kofford Elliott, 2008, incorporating earlier material by Evelyn Kofford Christensen
+- *Life Sketch of James Christian Meiling (Jens Christian Christiansen)*, compiled by Peggy Ann Kofford Elliott, 2008, incorporating earlier material by Evelyn Kofford Christensen — including the note that Jens asked to be rebaptized near the end of his life
 - *Hannah Andersdatter* biography pages, descendant compilation preserving family recollections
 - Hannah Meiling obituary, Mount Pleasant newspaper, 1930
 - Hannah Meiling funeral notice, Mount Pleasant newspaper, 1930
