@@ -1,9 +1,9 @@
 # William Joseph Taylor Jr. & Abby Jane Scott
 
-**Relationship to Erik Byron Taylor:** Great-grandparents  
-**Line:** Erik → Byron William Taylor → **Paul Hector Taylor** → **William Joseph Taylor Jr. & Abby Jane Scott**
+**Relationship to Erik Byron Taylor:** 2× great-grandparents  
+**Line:** Erik → Byron William Taylor → **Paul Hector Taylor** → **William Weldon Taylor** → **William Joseph Taylor Jr. & Abby Jane Scott**
 
-Paul Hector Taylor, Erik's grandfather, was one of their children. This is Erik's direct paternal Taylor line.
+Paul Hector Taylor, Erik's grandfather, was their grandson through **William Weldon Taylor**. This is Erik's direct paternal Taylor line.
 
 **FamilySearch IDs:**
 - William Joseph Taylor Jr.: `I20` in the current GEDCOM export
@@ -107,7 +107,7 @@ Later she worked in the household of **Zina Young Williams**, a daughter of Brig
 
 Abby married **William Joseph Taylor** on **3 August 1882** in the **Endowment House** in Salt Lake City. Her daughter says the ceremony was performed by **Daniel H. Wells**.
 
-The newspaper obituary confirms the marriage date and place, and also says that Abby was the daughter of **Bishop Andrew H. Scott** and **Sarah Humphries Scott**. The death certificate gives her mother's name as **Sarah Ann Humphries**, while the broader family records identify her mother as **Sarah Ann Roe**; this is a discrepancy worth preserving rather than smoothing over, since family records often contain overlapping surnames or mistaken maternal identifications.
+The newspaper obituary confirms the marriage date and place, and also says that Abby was the daughter of **Bishop Andrew H. Scott** and **Sarah Humphries Scott**. It gives her birth date as **January 4, 1864**. The death certificate gives her mother's name as **Sarah Ann Humphries**, while the broader family records identify her mother as **Sarah Ann Roe**; this is a discrepancy worth preserving rather than smoothing over, since family records often contain overlapping surnames or mistaken maternal identifications.
 
 The Taylors first lived in **Provo**, where their early children were born. The family record image gives a clear list of the household Abby and William built.
 
@@ -183,7 +183,7 @@ If Abby's life sketch gives the emotional center of the marriage, William's publ
 A few points remain unresolved and should be checked against the full *Joe and Abby* compilation before treating them as settled:
 
 - Some family memories and later notes claim **twelve or thirteen children**, while the currently visible family record and obituary support **eleven** surviving named children.
-- The currently extracted family record image does not visibly include **Paul Hector Taylor**, though he is certainly their son in the direct family line.
+- The currently extracted family record image does not visibly include all of the descendants one would expect to see in the wider Taylor line, which suggests the image or current extraction is incomplete.
 - The obituary gives Abby's birth date as **4 January 1864**, while the life sketch and death certificate give **30 January 1864**. The death certificate and family life sketch agree, so I have treated **30 January 1864** as the better-supported date.
 - The mother's surname appears in the broader family line as **Roe**, while Abby's death certificate reports **Sarah Ann Humphries**. This should be reconciled carefully from the Scott family records rather than guessed at.
 
