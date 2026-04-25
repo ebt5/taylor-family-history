@@ -1,0 +1,98 @@
+identity:
+  preferred_name: Clarence Jordan Naylor
+  alternates: []
+
+spouse_identity:
+  preferred_name: Marian Rula Ward
+  alternates: []
+
+birth:
+  - person: Clarence Jordan Naylor
+    value: 1927-08-14
+    place: Safford, Graham, Arizona, United States
+    source:
+      - GEDCOM I4
+      - Deseret News / San Diego North article
+    confidence: high
+
+death:
+  - person: Clarence Jordan Naylor
+    value: 1980-05-25
+    place: San Diego, San Diego, California, United States
+    source: GEDCOM I4
+    confidence: high
+
+burial:
+  - person: Clarence Jordan Naylor
+    place: Greenwood Cemetery, San Diego, California, United States
+    source: GEDCOM I4
+    confidence: high
+
+parents:
+  Clarence Jordan Naylor:
+    - Thomas Clarence Naylor
+    - Phoebe Caroline Layton
+  Marian Rula Ward:
+    - Ernest Trulock Ward
+    - Anna Elizabeth Barker
+
+marriage:
+  - between: Clarence Jordan Naylor and Marian Rula Ward
+    value: unresolved exact date in current extraction
+    place: Marian listed as "of Los Angeles" in 1970 church article
+    source:
+      - wedding images
+      - Deseret News / San Diego North article
+    confidence: medium
+
+children:
+  - Cynthia Ann Naylor
+  - Scott Jordan Naylor
+  - Sherri Lynn Naylor
+  - Mark David Naylor
+  - Cathleen Ann Naylor
+  - Thomas Ward Naylor
+  - Carol Lynn Naylor
+  - Nancy Lee Naylor
+  - Joseph Terry Naylor
+  - Paul Layton Naylor
+  - Kenneth Ernest Naylor
+  - Christopher Jay Naylor
+  - count_claim: 12
+    source: Family of the Year article
+    confidence: high
+
+occupations:
+  - person: Clarence Jordan Naylor
+    value: special agent for the Federal Bureau of Investigation
+    source:
+      - Family of the Year article
+      - Deseret News / San Diego North article
+    confidence: high
+
+missions:
+  - person: Clarence Jordan Naylor
+    value: missionary in the Eastern States; mission photo dated 1949
+    source:
+      - Deseret News / San Diego North article
+      - mission photo caption
+    confidence: medium-high
+
+church_service:
+  - person: Clarence Jordan Naylor
+    value: bishop's counselor in two wards; bishop for three years; president of San Diego North Stake installed Nov. 1970
+    source: Deseret News / San Diego North article
+    confidence: high
+
+family_events:
+  - value: three children were adopted after being orphaned; their mother was Marian's sister and their father was Jordan's brother
+    source: Family of the Year article
+    confidence: medium-high
+  - value: Family of the Year recognition by San Diego District of California Federation of Women's Clubs
+    source: Family of the Year article
+    confidence: high
+
+claims_needing_resolution:
+  - exact marriage date/place
+  - Marian's birth/death details need fuller extraction if she is to receive equal biography weight
+  - the Family of the Year article and church article differ slightly on years of FBI service (more than 25 years / 20 years)

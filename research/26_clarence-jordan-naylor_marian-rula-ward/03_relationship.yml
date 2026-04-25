@@ -1,0 +1,11 @@
+relationship_to_erik:
+  label: grandparents
+  path:
+    - Erik Byron Taylor
+    - Cynthia Ann Naylor
+    - Clarence Jordan Naylor
+    - Marian Rula Ward
+  verified_from: GEDCOM family chain (I1 -> I2 -> I4/I7)
+  confidence: high
+  notes: |
+    Clarence Jordan Naylor and Marian Rula Ward are Erik's maternal grandparents.
