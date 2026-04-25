@@ -1,0 +1,130 @@
+identity:
+  preferred_name: Jens James Christian Pedersen Meiling
+  alternates:
+    - Jens Christian Christiansen
+    - James Christian Meiling
+    - Jens Christian Mieling
+    - Jens Christiansen Meiling
+
+spouse_identity:
+  preferred_name: Anna Hannah Andersdatter
+  alternates:
+    - Hannah Pedersen
+    - Anna Petersen
+    - Hannah Peterson
+    - Hanna Peterson
+
+birth:
+  - person: Jens
+    value: 1834-04-17
+    place: Aasted, Hjorring, Denmark
+    source: GEDCOM I25
+    confidence: high
+  - person: Hannah
+    value: 1845-09-11
+    place: Flade, Hjorring, Denmark
+    source: GEDCOM I16
+    confidence: high
+
+christening:
+  - person: Jens
+    value: 1834-05-19
+    place: Aasted, Hjorring, Denmark
+    source: GEDCOM I25
+    confidence: high
+  - person: Hannah
+    value: 1845-10-20
+    place: Flade, Hjorring, Denmark
+    source: GEDCOM I16
+    confidence: high
+
+immigration:
+  - person: Jens
+    value: 1855-1857
+    source:
+      - GEDCOM I25
+      - notes N190 N196 N191
+    confidence: medium
+  - person: Hannah
+    value: 1855-1856
+    source:
+      - GEDCOM I16
+      - notes N183 N170 N189 N173 N187
+    confidence: medium
+
+death:
+  - person: Jens
+    value: 1902-10-01
+    place: unresolved in current extraction
+    source: GEDCOM I25 malformed date 19021001
+    confidence: medium
+  - person: Hannah
+    value: 1930-04-24
+    place: Medford, Jackson, Oregon, United States
+    source: GEDCOM I16
+    confidence: high
+
+burial:
+  - person: Jens
+    value: 1902-10-03
+    place: Mount Pleasant, Sanpete, Utah, United States
+    source: GEDCOM I25
+    confidence: high
+  - person: Hannah
+    value: 1930-04-28
+    place: Mount Pleasant, Sanpete, Utah, United States
+    source: GEDCOM I16
+    confidence: high
+
+parents:
+  Jens:
+    - Peder Christensen
+    - Ane Kathrine Jensdatter
+  Hannah:
+    - Anders Pedersen
+    - Rasmine Olesdatter
+
+marriage:
+  - between: Jens and Hannah
+    value: 1863
+    place: unresolved in current extraction
+    source: Hannah obituary
+    confidence: medium
+
+children:
+  - Veda Meiling
+  - count_claim: 7
+    source:
+      - Hannah obituary
+      - 1902 Manti paper
+    confidence: high
+
+residences:
+  - person: Jens
+    value: Mount Pleasant, Sanpete, Utah
+    dates: 1860, 1880, 1900
+    source: GEDCOM I25
+    confidence: high
+  - person: Hannah
+    value: Mount Pleasant, Sanpete, Utah
+    dates: 1860, 1880, 1910
+    source: GEDCOM I16
+    confidence: high
+  - person: Hannah
+    value: Medford, Jackson, Oregon
+    dates: 1920, 1930
+    source: GEDCOM I16
+    confidence: high
+
+service:
+  - person: Jens
+    value: military service in Sanpete and Sevier
+    dates: 1866-04-01, 1867-05-01
+    source: GEDCOM I25
+    confidence: medium
+
+claims_needing_resolution:
+  - exact marriage date/place not yet extracted into case folder
+  - Jens death details should be confirmed from obituary / 1902 Manti paper
+  - Hannah obituary/funeral should confirm family relationships and late-life move to Oregon
+  - child count beyond direct-line Veda needs extraction from biographies

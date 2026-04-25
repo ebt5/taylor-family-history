@@ -1,0 +1,14 @@
+relationship_to_erik:
+  label: 2x great-grandparents
+  path:
+    - Erik Byron Taylor
+    - Byron William Taylor
+    - Veda Alene Kofford
+    - Veda Meiling
+    - Jens James Christian Pedersen Meiling
+    - Anna Hannah Andersdatter
+  verified_from: GEDCOM family chain (I1 -> I3 -> I5 -> I10 -> I25/I16)
+  confidence: high
+  notes: |
+    Direct line runs through daughter Veda Meiling (I10), spouse of Willard Hogan Kofford.
+    Jens and Anna/Hannah are the parents in family F12.
