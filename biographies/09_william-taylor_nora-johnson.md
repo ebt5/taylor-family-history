@@ -1,281 +1,211 @@
 # William Weldon Taylor & Nora Johnson
 
-**Relationship to Erik:** DIRECT great-great-grandparents  
-*(Erik → Byron William Taylor → Paul Hector Taylor → William Weldon Taylor & Nora Johnson)*
+**Relationship to Erik Byron Taylor:** Direct Taylor-line ancestors  
+**Line:** Erik → Byron William Taylor → Paul Hector Taylor → **William Weldon Taylor & Nora Johnson**
+
+William Weldon Taylor and Nora Johnson were the parents of **Paul Hector Taylor**, Erik's direct Taylor-line ancestor.
+
+**Primary sources used for this draft:**
+- 1983 family memoir packet / Hoopes Family Record excerpts on William Weldon Taylor and Nora Johnson, including memories by their children
+- *The John and Inger Sward Johnson Family, Pioneers in Lakeview, Utah* by Jewel A. Bartholomew (1996)
+- *History and Incidents in the Life of John Johnson, My Father* by August J. Johnson
+- William Weldon Taylor obituary / memorial text
+- Family photographs and portraits attached to FamilySearch memories
+- GEDCOM records for William Weldon Taylor (`I8`) and Nora Johnson (`I12`)
 
 ---
 
 ## William Weldon Taylor
-**b. 9 December 1883 | Provo, Utah, Utah, United States | d. 24 November 1938 | Provo, Utah, Utah, United States**
 
-=== The Hoopes Family Record - vol III 1983  ===
-The Hoopes Family Record - vol III 1983 pg 1164
+**Born:** 9 December 1883, Provo, Utah Territory  
+**Died:** 24 November 1938, Provo, Utah  
+**Parents:** William Joseph Taylor Jr. and Abby Jane Scott
 
-William Weldon Taylor
+William Weldon Taylor was born into the large and demanding Taylor household in Provo — the eldest son of **William Joseph Taylor Jr.** and **Abby Jane Scott Taylor**. If his father belonged to the generation that made farms and family businesses hold together, William Weldon belonged to the next generation: men expected not only to work but to lead.
 
+The surviving family reminiscences present him not as a dramatic or flamboyant man, but as one whose life was marked by **service, responsibility, and unusual generosity**. One of the strongest memorial sketches says of him that "his life truly was one of giving" and that selfishness "never found a home in the soul of Will Taylor." That is memorial language, but in this case it is backed by repeated family impressions: he gave time, money, labor, and emotional steadiness to other people, often at real personal cost.
 
+### Early life in Provo
 
-Australian
-June 1912–September 1914
-Age Called: 28
-Served as Mission President
-Australia
-Set Apart: 5 June 1912
-Arrived At Home: 22 September 1914
-Mission type: Proselytizing
-Marital Status: Married
-Priesthood office: Seventy
-Quorum: 123rd
-Called From: Provo, Utah, Utah, United States
-Set apart by: Rulon S Wells
-Notes: Served as Mission President - 1913-1914
+He was raised in the old Provo / Lakeview Taylor world — the same world shaped by orchards, dairy work, ward obligations, and large-family discipline. The memoirs and descendant records suggest a home where religion, labor, and family identity were tightly braided together. The thoughtful guidance of William Joseph and Abby Jane is explicitly credited in the memorial material as having shaped the kind of man he became.
 
-William Weldon Taylor lived a rich, pure life; one particularly rich for others in that it was one of service. For the greater number of his 54 years, his every act bore evidence of a keen adjustment to his fellow men. So often in his home, in his church affiliations or in his business, he would forego pleasures of his own, and so many times actually reduce his financial earning power through giving aid to someone in need. His life truly was one of giving. Selfishness never found a home in the soul of Will Taylor. Consideration of others characterized this great man whom everyone loved so well. It has been said that people who criticized Bishop Taylor did not know him. And one can say that there were few who did not know him.
+If the sources describe his character in unusually glowing terms, they also place him in very practical settings: family work, ward service, business concerns, and eventually the raising of seven children with Nora. He was not remembered as a dreamy or remote patriarch. He was remembered as a useful one.
 
-He was born December 9, 1883, in the Second Ward of Provo, the eldest son of William Joseph and Abby Jane Scott Taylor. The thoughtful guidance of his good parents played an outstanding role in shaping the character of Will Taylor. Those enviable qualities of this wonderful man; those personality traits that constituted his individuality, originated in part from the heritage of his good parents and the environment which they created in their home. Both of them were instrumental in developing his lasting fine qualities.
+### Marriage to Nora Johnson
 
-Shortly before his brother, Scott A. Taylor, passed away April 20, 1962, he made these comments about Will: “I remember his as a little boy with big freckles and curly hair. When he was very young he had typhoid fever which nearly cost him his life. He had a mind of his own and when a decision was made nothing could change it. Ed Hinckley said he was an outstanding student at BYU.”
+William married **Nora Johnson**, daughter of **John Johnson** and **Inger Sward**, whose Lakeview family history is one of the stronger Scandinavian-immigrant stories in this line. Nora brought into the Taylor family a different but compatible inheritance: the disciplined, church-centered, immigrant world of the Johnsons of Lakeview.
 
-As a boy his playmates knew him for his fairness in play; they remembered him for his love of his mother and father, for his kindness to his brothers and sisters and for his respect and thoughtfulness for the aged. At an early age he began the growth of sharing with others; of living unselfishly for the sake of others. These admiral qualities continued to grow to such heights that they characterized his rich, full life.
+The marriage joined two deeply rooted Utah County lines — the T ay lor line from Provo and the Johnson line from Lakeview. The result was a household remembered by their children as warm, busy, affectionate, hardworking, and full of both pressure and love.
 
-He lived with his family in their simple dwelling in Provo for 15 years. At that time, they moved to Vineyard on the Shadrack Holdaway ranch. This ranch was later known to us as the Harry Gammon farm. The family remained there for about five years. They then moved to Lake View where Will lived for the remainder of his life. The place was purchased from J.J. Dillitush. It had belonged before that to George Scott, Sr.
+### Australia Mission
 
-According to Scott A., Will was largely responsible for the family’s leaving Provo and moving to Vineyard in 1904, and was in favor of buying the George C. Scott property which later became Cherry Hill Dairy Farm.
+One of the great public facts of William Weldon's life is his mission service. The record excerpt used in the existing family compilation identifies him with the **Australian Mission**, from **June 1912 to September 1914**, and notes that he served as **mission president** from **1913 to 1914**.
 
-June 26, 1907, was a memorable day in the life of Will Taylor. At that time he married a lovely young girl, Nora Johnson, whose character so complemented his as to make her an ideal mate for him. They were known to be sweethearts always. June 30, 1908, their first child, a son named Weldon Johnson, was born. Approximately three years later their home was blessed with a lovely little daughter, Virginia.
+That means his mission was not simply youthful proselyting before marriage. He went as a married man, with a wife and small children at home. The family memory material makes clear what a strain that was. At the time of his call, their home was in turmoil: little **Virginia** was seriously ill, and Nora was carrying the burdens of young motherhood. The memoirs emphasize that his sense of religious duty overrode even intense family reluctance. It is exactly the sort of call that makes a pious family history sound noble on paper and punishing in real life.
 
-When he was called on a mission in 1912, Will’s home was in a turmoil. Little Virginia was very ill; it looked as if they might lose her, but his ever-kindled faith in his religion caused him to accept the call even against the wishes of his own mother. Through his faith, things at home were made normal.
+And yet the memories do not present him as indifferent to his family. Quite the opposite. They suggest a man torn by obligations, but determined to obey what he believed was required of him.
 
-In speaking of Will’s mission at his funeral, Dean Johnson said, “It was my privilege to visit the same Australian mission in which Uncle Will served, and to visit with some of the old people who were once associated with him. I can remember how they would bring out their albums and show the pictures of the various elders, and they would pause and exclaim at Uncle Will’s picture, ‘What a fine man he was!’ It was in the homes of these people that I learned to appreciate the life of a real missionary.”
+### Bishop Taylor
 
-While in Australia, Will was honored as very few missionaries are, in that he was appointed by President Hyde to serve as mission president. This calling, which he filled for almost a year, was an unusual challenge, but the richness of his life up to that time enabled him to fill it admirably. Though young in years, he was experienced in life’s affairs. He was known always to be true and fair in his decisions.
+In the memorial text he is repeatedly referred to as **Bishop Taylor**, and by the time of his death he was also serving as a member of the **High Council of the Sharon Stake**. Church service was not ornamental to his life; it was one of the organizing realities of it.
 
-He was always intensely interested in dairying. After moving to Cherry Hill Farm he was actively engaged in that activity. His first business entry was in about 1908 when he operated the Lake View Dairy jointly with George Scott.
+This also helps explain the peculiar weight he carries in family memory. He was not just father and breadwinner; he was a man visibly answerable to a religious community, expected to give counsel, to absorb other people's burdens, and to live publicly by the principles he preached privately.
 
-It was Will’s idea, a few years later, to organize the dairy known as “Cherry Hill” which he operated in conjunction with his father and brothers. Later it was dissolved as a family unit and Will continued to own and operate this business until his death in 1938, which made a total of 30 years he spent dairying.
+One tribute says that even those who criticized him did not really know him. The line is defensive, but revealing. It suggests that William Weldon's seriousness and church role may not always have made him easy, but they did make him consequential.
 
-The operation of the dairy was carried on at the Lake View farm until 1925 when he purchased the site and constructed the new bu9ilding just off center street Fourth West in Provo, where his dairy products were prepared for and disbursed for distribution.
+### Work, home, and the children
 
-In 1915, just after his return from the Australian mission and at the young age of 31, he was chosen Bishop of the Lake View Ward. In this office he was tolerant, sympathetic, kind-hearted to all and was careful to weigh and consider his decisions. He served in this calling for 13 years, which speaks adequately of his ability. For a man so young to command the respect and admiration of his elders is certainly an accomplishment of merit.
+The family reminiscences paint a vivid domestic picture. William and Nora had **seven children**:
 
-On June 27, 1915, a second son, Paul Hector, named for one of his father’s missionary companions, Hector Haight, came to bless the home of Will and Nora.
+- **Weldon Johnson Taylor**  
+- **Virginia Taylor**  
+- **Margaret Taylor**  
+- **Phillip Royden Taylor**  
+- **Richard Sward Taylor**  
+- **Robert W. Taylor**  
+- **Paul Hector Taylor**
 
-Though he was always very busy, Will was never too involved to devote time to others. He was first to visit the sick. Someone has said he was called to administer to the sick more than any other one man in the ward at that time. He loved to do it because he thought he might be helping. That was his unselfish goal. The scripture “He who is greatest among you is servant of all,” has been aptly used in connection with his life of It has been said by at least one person that Will was too honest and too considerate of others to be a business man. He practiced his religion in his daily dealings. When his milk customers were unable to pay for their milk he rarely cut them off. His heart was too big; their problems were too well understood. When a friend became ill, without an order he would see to it that buttermilk was left by the delivery boy. Or to some family in need he would send milk daily with orders to the delivery man not to collect. The story is told of one who had done ill against him in business and who became distressed, then came to Will who gave him assistance and furnished him with the necessities of life. These deeds characterized the life of this man. He truly lived his religion.
+Those names are recoverable both from the memoir packet and from the later family line. Their household combined the emotional climate of a large Mormon family with the particular pressure of illness, mission calls, business burdens, and church leadership.
 
-One of the more important activities of Will’s life was participation in the Taylor quartet. The original group was composed of Will, Scott and Joseph Taylor and August Johnson. They sang at graveside services during the flu epidemic. If an actual count were made of the many times Will sang with the quartet and with the choir, or the many times he spoke in religious circles, or the many times he prayed to God in behalf of his people, the figure would be an astounding one. Many people have been comforted and made to feel better by having heard him speak or sing. He was a member of the quartet for 30 years.
+Children's memories preserved in the 1983 family packet help a lot here. They do not all remember the same things, but together they create a strong composite impression: William was admired, sometimes feared a little, almost always respected, and deeply loved. His children remembered him as serious, dutiful, and interested in them, but often stretched very thin.
 
-As a member of the old Provo Tabernacle Choir, Will frequently conducted the group in the absence of Adolph Boshard, choir leader. Will was also choir leader in the ward and a good one. He had an active organization with weekly practices. According to Clara they sang at sacrament meetings and had concerts, parties and outings.
+One particularly revealing line from the existing family compilation says that because of the demands of church and business, Will "was unable to spend as much time as he would have loved to spend with his family, but he was very proud of and concerned for the welfare of each one." That feels like the right register for him: not absent, not carefree, but burdened.
 
-On of the very most important phases of his life was his family. Due to his many responsibilities in church and business, Will was unable to spend as much time as he would have loved to spend with his family, but he was very proud of and concerned for the welfare of each one as he or she came along with individual personalities and accomplishments. His wonderful companion, Nora, filled in the gap with the children.
+### Nora's illness and the family's sorrow
 
-Probably the greatest burden that Will bore was Nora’s illness, though like all other of his problems he took it “chin up”. Victor Bird said at his funeral, “I have never found him outwardly disturbed by the problems that confronted him. He exercised a calmness that few men can under strain, yet I know how concerned he was about his responsibilities.”
-Nora had been ill for some time, had undergone surgery and underwent more surgery when Paul was leaving for the Australian mission in January of 1935, yet she and Will, true to their faith, were both anxious that he go. Words are not adequate to express what they must have felt at that time. Neither can words express the grief and loneliness that Will experienced when later that same year, November 16, 1935, the devoted companion who had meant so much to him for so long was called away. It has been felt by those nearest to him that he never actually found himself after Nora’s passing.
+The heaviest burden of William Weldon's later life, according to the memoirs, was **Nora's long illness**.
 
-Will’s life was a very crowded one. He utilized every moment. His accomplishments were many. He served as a member of the High Council of the Sharon Stake and at the time of his death was energetically engaged in religious, social a
+The family material says she had been ill for some time and had undergone surgery. The emotional turning point comes when their son **Paul** was leaving for the **Australian mission in January 1935**. Nora was gravely ill, and yet both parents, in keeping with their faith, wanted him to go. The memoir packet says bluntly that words are not adequate to express what they must have felt.
 
-Cherry Hill Farm and Dairy
-When Frank was eleven years old the family moved to Lakeview and lived in the Old George Scott home, now known as Cherry Hill.  He worked on the farm and milked several cows before he went to sch
+Nora died on **16 November 1935**, and the family memory is clear that William never really recovered from her loss. The sources describe him as carrying on, but also as inwardly broken by the death of the companion who had meant so much to him for so long.
 
-Memories of my Parents by Weldon J. Taylor
+That detail matters because it keeps him from becoming merely "Bishop Taylor," public man of service. It restores the private cost of that life.
 
-Memories of my parents, William Weldon Taylor and Nora Johnson Taylor
-by  Weldon J. Taylor
-June, 1983
+### Death
 
-SPECIFIC MEMORIES OF MOTHER
+William Weldon Taylor died on **24 November 1938** in Provo at only fifty-four years of age.
 
-I undertake this assignment with great humility.  In attempting to
+The memorial text says his life was crowded and that he utilized every moment. It also says that at the time of his death he was still energetically engaged in religious, social, and business affairs. That sounds like a fitting end to the public record of a man remembered for relentless usefulness.
 
-Memories of Mother and Father by Robert W. Taylor
-Memories of Mother and Father, William Weldon Taylor and Nora Johnson
-by Robert W. Taylor
-June 1983
-
-Mother was always very understanding and helpful.  My earliest recollections were her caring fo
-
-William Weldon Taylor
-William Weldon Taylor lived a rich, pure life; one particularly rich for others in that it was one of service. For the greater number of his 54 years, his every act bore evidence of a keen adjustment
-
-Memories of My Parents by Phillip R. Taylor
-Memories of My Parents William Weldon Taylor and Nora Johnson
-by Phillip Royden Taylor
-June 1983
-
-MEMORIES OF MOTHER
-As I remember Mother, she really lov
-
-Memories of my Parents by Virginia Taylor Worthington
-Memories of my parents William Weldon Taylor and Nora Johnson
-by Virginia Taylor Worthington
-June, 1983
-
-I Remember Papa:
-Yes, that is what I called him (and I think all of us) when I was youn
-
-=== The Hoopes Family Record - vol III 1983  ===
-The Hoopes Family Record - vol III 1983 pg 1164
-
-Memories of Mother and Father by Margaret T.  Holdaway
-Memories of Mother and Father, William Weldon Taylor and Nora Johnson
-by Margaret T. Holdaway
-June 1983
-
-As I contemplate this assignment I become very keenly aware of the shortcomings of my memory
-
-Memories of Parents by Richard Sward Taylor
-REMINISCENCES OF THE BOYHOOD AND YOUTH OF
-RICHARD SWARD TAYLOR
-June, 1983
-
-On the dairy farm near Provo where I grew up with two sisters and four brothers (plus 50 cows) the two most important perso
-
-Alene and Paul's Love Story
-(Taken from "The Story of My Life" by Alene Kofford Taylor)
-During the summer of 1931 I received a phone call one fine day from a person who identified himself as Paul Taylor. I doubted that this
-
-=== MISSIONARY SERVICE ===
-William Weldon Taylor
-
-
-
-Australian
-June 1912–September 1914
-Age Called: 28
-Served as Mission President
-Australia
-Set Apart: 5 June 1912
-Arrived At Home: 22 September 1914
-Mission type: Proselytizing
-Marital Status: Married
-Priesthood office: Seventy
-Quorum: 123rd
-Called From: Provo, Utah, Utah, United States
-Set apart by: Rulon S Wells
-Notes: Served as Mission President - 1913-1914
-
-Funeral Service for William Weldon Taylor
-FUNERAL SERVICES for William Weldon TAYLOR
-
-November 27, 1939
-
-Lake View Ward Chapel
-
-Choir sang—“Though Deepening Trails Throng Your Way”
-
-Invocation by Spencer Madsen:
-
-Our Father in Heaven, it is w
-
-My Thoughts of Mother and Father by Paul H. Taylor
-My Thoughts of Mother and Father, William Weldon Taylor and Nora Johnson
-by Paul H. Taylor
+The strongest summary line remains the simplest: his was "one of service."
 
 ---
 
-## Nora Johnson
-**b. 19 November 1887 | Lakeview, Utah, Utah, United States | d. 15 November 1935 | Lakeview, Utah, Utah, United States**
+## Nora Johnson Taylor
 
-Alene and Paul's Love Story
-(Taken from "The Story of My Life" by Alene Kofford Taylor)
-During the summer of 1931 I received a phone call one fine day from a person who identified himself as Paul Taylor. I doubted that this
+**Born:** 26 June 1886, Lakeview, Utah County, Utah Territory  
+**Died:** 16 November 1935  
+**Parents:** John Johnson and Inger Sward
 
-My Thoughts of Mother and Father by Paul H. Taylor
-My Thoughts of Mother and Father, William Weldon Taylor and Nora Johnson
-by Paul H. Taylor
+Nora Johnson was the eighth surviving child of **John Johnson** of Norway and **Inger Sward** of Sweden, one of the substantial Scandinavian families of Lakeview. If William came out of the large Taylor household of Provo, Nora came out of one of the great immigrant-family households of Utah Lake country.
 
-=== #REF: Information submitted to Ancestral ===
-#REF: Information submitted to Ancestral File, produced by the Church of
-Jesus Christ of Latter Day Saints
+That background matters. The Johnson family history is unusually rich and gives Nora a real inherited setting instead of leaving her as a shadow beside her husband.
 
-#NAT: American
+### The Johnson family world
 
-The Hoopes Family Record - vol III 1983 pg 1164
+Nora was born into a home already full of children, labor, church duty, and memory. Her parents were not simply settlers; they were emblematic Scandinavian Latter-day Saint immigrants.
 
-Memories of My Parents by Phillip R. Taylor
-Memories of My Parents William Weldon Taylor and Nora Johnson
-by Phillip Royden Taylor
-June 1983
+Her father, **John Johnson**, came from Norway in 1864, after crossing the Atlantic on the *Monarch of the Sea* and then the plains by ox team. Her mother, **Inger Sward**, came from Sweden in 1868 on the *Emerald Isle*, met John while crossing the plains, and married him in the Endowment House in 1870. Their story is a compact little epic of immigration, homesickness, industry, devotion, and eventual prosperity in Lakeview.
 
-MEMORIES OF MOTHER
-As I remember Mother, she really lov
+Jewel Bartholomew's 1996 family history says that Nora — there spelled **Norah** in the old family list — was born **26 June 1886**. She grew up in the adobe-and-farm world of Lakeview, a home of hard physical work, scripture, music, sewing, church leadership, and exacting domestic competence.
 
-Will and Nora Taylor
-Just a snippet I recall my mother (Margaret Taylor Holdaway) telling about her parents, Will and Nora.  They were very much in love and completely devoted to one another.  My mother recollects that sh
+Her mother Inger had served as **Primary president** and **Relief Society president**. Her father served long years as **bishop of Lakeview Ward** and had also gone on a mission to Norway. The atmosphere of Nora's childhood, then, was not casual religion but total family immersion in the life of the Church and the demands of pioneer respectability.
 
-Memories of my Parents by Virginia Taylor Worthington
-Memories of my parents William Weldon Taylor and Nora Johnson
-by Virginia Taylor Worthington
-June, 1983
+### Daughter of Inger
 
-I Remember Papa:
-Yes, that is what I called him (and I think all of us) when I was youn
+The Johnson family materials make it possible to imagine the kind of home Nora grew up in. It was a house where water had to be hauled, wood chopped, clothes made by hand, babies rocked in a cradle that served child after child, and evenings stretched into reading, sewing, and self-improvement.
 
-Funeral Service for Nora Johnson Taylor
-FUNERAL SERVICES FOR SISTER NORA JOHNSON TAYLOR
-November 19, 1935
-Lake View Ward Chapel, Provo, Utah
+It was also a house of music and language. Inger is remembered as artistic, bright, determined to master English, and eager that her children appreciate beauty and learning. John is remembered as industrious, brave, and cheerful. Nora grew up at the far end of that long family story, in a household no longer at the first starvation edge of pioneer life, but still morally shaped by it.
 
-Dean Johnson, first counselor in the bishopric, presiding.
+That likely helps explain the tone of her later family. The Taylor memoirs consistently present Nora as a woman of deep loyalty, quiet endurance, and unusual steadiness.
 
-Opening  song:  Choir
-Just As God Le
+### Marriage and motherhood
 
-History of Zettella Goodridge Taylor
-History of Zettella Goodridge Taylor
-27 Sept 1896-2 March 1991
-By Zettella Goodridge Taylor
-Transcribed by Sylvia Newman September 2014
+When Nora married William Weldon Taylor, she entered another large, church-centered Utah family. The result was a home that their children later remembered with extraordinary vividness.
 
-I was born September 27, 1896, to Josephine Johnson Goodri
+The family recollections describe Nora as the emotional center of that home. Where William's life was divided among church, business, and public obligation, the memoirs say plainly that **"Nora filled in the gap with the children."** That is one of the most revealing lines in the entire record.
 
-Memories of Mother and Father by Robert W. Taylor
-Memories of Mother and Father, William Weldon Taylor and Nora Johnson
-by Robert W. Taylor
-June 1983
+It does not diminish William. It tells us what kind of woman Nora had to be.
 
-Mother was always very understanding and helpful.  My earliest recollections were her caring fo
+She raised seven children in a household marked by illness, mission departures, church expectations, and the ordinary work of feeding and shaping a large family. Individual children remembered different aspects of her:
+- her kindness
+- her understanding
+- her care during sickness
+- her emotional steadiness
+- her ability to make each child feel personally loved
 
-Memories of Parents by Richard Sward Taylor
-REMINISCENCES OF THE BOYHOOD AND YOUTH OF
-RICHARD SWARD TAYLOR
-June, 1983
+From the memoir packet titles alone — **Specific Memories of Mother**, **Memories of My Parents**, **Memories of Mother and Father** — it is obvious that the children felt they had more than enough to say about her.
 
-On the dairy farm near Provo where I grew up with two sisters and four brothers (plus 50 cows) the two most important perso
+### Illness
 
-Memories of Mother and Father by Margaret T.  Holdaway
-Memories of Mother and Father, William Weldon Taylor and Nora Johnson
-by Margaret T. Holdaway
-June 1983
+The most painful part of Nora's biography is also the part that reveals her most clearly.
 
-As I contemplate this assignment I become very keenly aware of the shortcomings of my memory
+By the early 1930s, she had become seriously ill. The family recollections say she underwent surgery, suffered for some time, and was still ill when son **Paul** left for Australia in 1935. Yet both she and William wanted him to fulfill the mission call.
 
-Memories of my Parents by Weldon J. Taylor
+That choice fits the religious world she came out of. Nora was the daughter of a bishop and Relief Society mother. Sacrifice for the church was not a dramatic exception in her life story; it was part of the inherited grammar of the family.
 
-Memories of my parents, William Weldon Taylor and Nora Johnson Taylor
-by  Weldon J. Taylor
-June, 1983
+Still, the memoirs make clear the human cost. This was not a cheerful abstraction. She was ill, her son was leaving, and both parents were facing what may have felt like one of the great tests of their lives.
 
-SPECIFIC MEMORIES OF MOTHER
+Nora died on **16 November 1935**. The family recollections suggest that her death left a wound in the whole household and especially in William, who never truly regained himself afterward.
 
-I undertake this assignment with great humility.  In attempting to
+### Character in memory
 
-=== The Hoopes Family Record - vol III 1983  ===
-The Hoopes Family Record - vol III 1983 pg 1164
+Nora's distinctiveness comes through in a quieter register than William's. He appears in the sources as bishop, councilman, mission president, man of service. Nora appears through the eyes of children.
+
+That is often where a mother's true biography lives.
+
+She is remembered as:
+- loving
+- understanding
+- strong under illness
+- deeply tied to her children
+- the one who sustained family life when outside obligations pulled William away
+
+That pattern is easy to sentimentalize, but it should not be flattened either. The surviving evidence suggests that her children genuinely felt her as the moral-emotional center of the family.
 
 ---
 
-## Their Story Together
+## Their life together
 
-William Weldon Taylor and Nora Johnson are Erik's direct great-great-grandparents on the Taylor side—the grandparents of Erik's grandfather Byron William Taylor. William Weldon Taylor died on 24 November 1938 in Provo, Utah, Utah.
+William Weldon Taylor and Nora Johnson joined two vigorous Utah County strains: the T ay lor line of Provo and the Johnson-Sward line of Lakeview. Together they built a household where service, religion, work, illness, sacrifice, and affection all pressed closely together.
 
-Nora Johnson Taylor represents the Johnson family line that intertwines with the Taylor heritage. Their son Paul Hector Taylor continued the Taylor family legacy, and Paul's son Byron William Taylor became Erik's grandfather, making this couple the foundational great-great-grandparents of the Taylor direct line.
+Their life appears to have had three broad phases:
 
-Their lives unfolded in the Provo, Utah area, part of the deeply established Latter-day Saint community of Utah Valley that had been built by pioneer forebears across multiple generations. The Taylor family had deep roots in this region, and William Weldon Taylor and Nora Johnson were part of that established community life in early twentieth-century Utah.
+1. **young family years**, with early children and the strain of William's mission  
+2. **middle years of church and family leadership**, with Bishop Taylor's responsibilities and a growing household  
+3. **years of illness and loss**, ending with Nora's death in 1935 and William's in 1938
+
+One way to understand the pair is this:
+- William was the public face of duty  
+- Nora was the private force that made the family bearable and coherent
+
+The memoirs do not pit them against each other. They present them as companions under strain — each carrying the sort of burdens the other could not fully relieve.
+
+Their son **Paul Hector Taylor** carried their line forward. Through him, and then through **Byron William Taylor**, their memory comes down to Erik.
+
+---
+
+## Notes on unresolved points
+
+A few things remain unresolved or only partially recovered in the currently extracted source set:
+
+- the exact marriage date and place have not yet been firmly extracted into the research file used here
+- Nora's funeral or obituary text is not yet fully pulled into this working packet
+- the children are well attested by descendant memoir titles and family line continuity, but a consolidated primary family group sheet would still be useful
+
+None of those gaps change the broad shape of the story, but they are worth tightening later.
 
 ---
 
 ## Sources
 
-- GEDCOM notes from family histories and FamilySearch records  
-- Taylor family records, Provo, Utah  
-- Church of Jesus Christ of Latter-day Saints records
+- 1983 family memoir packet / Hoopes Family Record excerpts on William Weldon Taylor and Nora Johnson, including memories by their children Margaret Holdaway, Phillip R. Taylor, Virginia Taylor Worthington, Richard Sward Taylor, and Robert W. Taylor
+- *The John and Inger Sward Johnson Family, Pioneers in Lakeview, Utah* by Jewel A. Bartholomew, 1996
+- *History and Incidents in the Life of John Johnson, My Father* by August J. Johnson
+- William Weldon Taylor memorial / obituary text
+- GEDCOM records for William Weldon Taylor (`I8`) and Nora Johnson (`I12`)
+- FamilySearch memory images and attached family portraits
+
+---
+
+*This version aims to keep the best family-prose richness while staying anchored to extracted artifacts and clearly identified family-history sources.*
